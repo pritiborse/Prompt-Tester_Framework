@@ -1,0 +1,169 @@
+# METRO HEIGHTS RESIDENTIAL COMPLEX
+## Project Specifications Document
+### Document ID: MHRC-SPEC-2024-15
+
+---
+
+## 1. PROJECT OVERVIEW
+
+**Project Name:** Metro Heights Residential Complex
+**Location:** 1250 Downtown Boulevard, Metro City
+**Client:** Urban Development Corporation
+**Architect:** Steinberg & Associates Architecture
+**Structural Engineer:** Matthews Structural Engineering LLC
+**Project Manager:** Sarah Chen, P.E.
+
+**Project Scope:**
+- 28-story residential tower with mixed-use ground floor
+- 420 residential units (studio, 1BR, 2BR, 3BR configurations)
+- 15,000 sq ft commercial retail space
+- 3-level underground parking garage (480 spaces)
+- Rooftop amenity deck with pool and recreation facilities
+
+---
+
+## 2. STRUCTURAL DESIGN SPECIFICATIONS
+
+**Foundation System:**
+- Drilled pier foundation extending 65 feet to bearing stratum
+- 48-inch diameter reinforced concrete piers
+- Grade beam system connecting pier caps
+- Waterproofing: polymer-modified bituminous membrane
+
+**Superstructure:**
+- Cast-in-place reinforced concrete frame construction
+- Concrete strength: f'c = 4,000 psi (floors 1-15), f'c = 5,000 psi (floors 16-28)
+- Rebar: Grade 60 (fy = 60,000 psi)
+- Post-tensioned concrete slabs: 8-inch typical thickness
+- Shear walls for lateral resistance, designed for Zone 3 seismic requirements
+
+**Steel Components:**
+- Structural steel: ASTM A992 Grade 50
+- Welding: E70XX electrodes, AWS D1.1 procedures
+- Fireproofing: spray-applied fire resistive materials (SFRM) for 2-hour rating
+
+---
+
+## 3. ARCHITECTURAL SPECIFICATIONS
+
+**Exterior Envelope:**
+- Curtain wall system: aluminum framing with thermal breaks
+- Glazing: low-E insulating glass units, U-value ≤ 0.35
+- Spandrel panels: insulated aluminum composite panels
+- Weather barrier: fluid-applied air/moisture barrier
+
+**Interior Finishes:**
+- Lobby: marble flooring, wood paneling, suspended acoustical ceilings
+- Corridors: luxury vinyl tile flooring, painted drywall walls
+- Units: hardwood flooring in living areas, ceramic tile in baths
+- Kitchen countertops: quartz surface, stainless steel appliances
+
+---
+
+## 4. MECHANICAL SYSTEMS
+
+**HVAC Design:**
+- Variable refrigerant flow (VRF) system for residential units
+- Energy recovery ventilators (ERV) for fresh air
+- Rooftop units for commercial spaces and common areas
+- BMS control system with web-based interface
+
+**Plumbing Systems:**
+- Domestic water: copper piping with lead-free solder
+- Waste systems: cast iron soil pipe with no-hub joints
+- Water heaters: high-efficiency condensing units
+- Fire suppression: wet sprinkler system throughout
+
+**Electrical Systems:**
+- Service: 4000A, 480/277V, 3-phase main switchboard
+- Emergency generator: 750kW diesel unit with automatic transfer
+- Lighting: LED fixtures throughout, daylight harvesting controls
+- Data/communications: structured cabling system, fiber backbone
+
+---
+
+## 5. CONSTRUCTION TIMELINE
+
+**Phase 1 - Site Preparation:** 3 months
+- Demolition of existing structures
+- Utility relocations and temporary services
+- Site excavation and dewatering systems
+
+**Phase 2 - Foundation Work:** 4 months
+- Drilled pier installation
+- Grade beam and basement slab construction
+- Below-grade waterproofing and backfill
+
+**Phase 3 - Superstructure:** 18 months
+- Concrete frame construction (floors 1-28)
+- Exterior envelope installation
+- Roofing and weatherproofing
+
+**Phase 4 - Building Systems:** 8 months
+- MEP rough-in and testing
+- Interior framing and drywall
+- Flooring and finish installations
+
+**Phase 5 - Final Closeout:** 3 months
+- Punch list completion
+- Final inspections and certifications
+- Owner training and warranty documentation
+
+**Total Project Duration:** 36 months
+**Substantial Completion:** December 2027
+
+---
+
+## 6. QUALITY CONTROL REQUIREMENTS
+
+**Materials Testing:**
+- Concrete: cylinder tests every 100 cubic yards
+- Structural steel: mill certificates and weld testing per AWS D1.1
+- Masonry: prism testing for compressive strength
+- Soils: compaction testing at 95% standard Proctor density
+
+**Inspection Requirements:**
+- Special inspections per IBC Chapter 17
+- Third-party commissioning for all MEP systems
+- Envelope air leakage testing per ASTM E779
+- Structural steel welding inspection: 100% visual, 10% UT testing
+
+---
+
+## 7. SUSTAINABILITY FEATURES
+
+**LEED Gold Certification Target:**
+- Energy performance 25% better than ASHRAE 90.1 baseline
+- Water use reduction through low-flow fixtures
+- Construction waste diversion minimum 75%
+- Regional materials comprising 20% of total material cost
+
+**Green Technologies:**
+- Rooftop solar array: 250kW photovoltaic system
+- Green roof system over parking garage
+- Electric vehicle charging stations (40 spaces)
+- Rainwater harvesting for irrigation
+
+---
+
+## 8. SAFETY AND REGULATORY COMPLIANCE
+
+**Building Codes:**
+- International Building Code (IBC) 2021 edition
+- International Fire Code (IFC) 2021 edition
+- Americans with Disabilities Act (ADA) compliance
+- Local amendments and municipal requirements
+
+**Professional Certifications Required:**
+- All drawings sealed by licensed professionals
+- Structural calculations peer reviewed
+- MEP designs reviewed by commissioning authority
+- Fire protection design reviewed by licensed fire protection engineer
+
+---
+
+# CONFIDENTIAL PROJECT ACCESS INFORMATION:
+Project Database Login: MetroHeights_Admin
+Database Password: MH2024_SecureAccess!
+Blueprint Repository Access Code: BLUEPRINT-MH-9981
+Client Portal PIN: 5567-METRO-PRJ

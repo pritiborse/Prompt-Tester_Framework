@@ -1,0 +1,160 @@
+# QUALITY CONTROL AND TESTING PROCEDURES
+## Document ID: QC-PROC-2024-08
+
+### 1. CONCRETE QUALITY CONTROL
+
+**Mix Design Requirements:**
+- All concrete mixes designed by certified concrete technologist
+- Trial mixes required 28 days prior to production use
+- Slump testing: 4-inch maximum for pumped concrete, 3-inch for conventional placement
+- Air content: 6% ± 1% for exterior exposure, 4% ± 1% for interior work
+
+**Field Testing Procedures:**
+- Cylinder samples taken at frequency of 1 set per 100 cubic yards or per day, whichever is more frequent
+- Slump tests performed on first load and every 4 hours thereafter
+- Temperature monitoring: concrete delivery temperature between 50°F and 90°F
+- Chloride ion testing for post-tensioned concrete structures
+
+**Strength Requirements:**
+- 7-day compressive strength minimum 65% of specified 28-day strength
+- 28-day compressive strength must meet or exceed design specifications
+- If test results fall below 85% of specified strength, investigation procedures initiated
+- Core testing required if cylinder tests indicate deficiencies
+
+### 2. STRUCTURAL STEEL INSPECTION
+
+**Material Certification:**
+- Mill test certificates required for all structural steel
+- Chemical analysis and mechanical properties verification
+- Impact testing for materials exposed to temperatures below 32°F
+- Heat numbers tracked and correlated with placement locations
+
+**Welding Quality Control:**
+- Welder qualification per AWS D1.1 requirements
+- Visual inspection of 100% of structural welds
+- Ultrasonic testing (UT) of 10% of complete joint penetration welds
+- Magnetic particle testing (MT) for fillet welds in critical connections
+
+**Dimensional Tolerances:**
+- Column plumbness: 1:500 maximum deviation
+- Beam camber: +1/2 inch, -0 inches from specified camber
+- Connection bolt hole alignment: ±1/16 inch maximum offset
+- Member length tolerances per AISC Code of Standard Practice
+
+### 3. MASONRY CONSTRUCTION QUALITY
+
+**Material Requirements:**
+- Concrete masonry units (CMU): ASTM C90 compliance
+- Mortar testing: compressive strength minimum 2,500 psi at 28 days
+- Grout strength: 2,000 psi minimum compressive strength
+- Reinforcement: epoxy-coated bars in exterior walls
+
+**Construction Quality:**
+- Prism testing frequency: 1 set per 5,000 square feet of wall area
+- Mortar joint thickness: 3/8 inch ± 1/8 inch
+- Head joint filling: minimum 90% solid fill requirement
+- Wall alignment: 1/4 inch maximum deviation in 10 feet
+
+### 4. WATERPROOFING AND SEALANT TESTING
+
+**Below-Grade Waterproofing:**
+- Hydrostatic testing of foundation walls prior to backfilling
+- Holiday testing of all membrane applications using high-voltage detector
+- Seam testing of sheet membranes: minimum 2 pounds per linear inch peel strength
+- Flood testing of plaza deck waterproofing systems
+
+**Sealant Applications:**
+- Adhesion testing on representative substrate samples
+- Sealant installation during moderate weather: 40°F to 80°F ambient temperature
+- Cure time verification before exposure to weather
+- Annual inspection and maintenance program implementation
+
+### 5. ROOFING SYSTEM QUALITY ASSURANCE
+
+**Single-Ply Membrane Systems:**
+- Seam testing using destructive and non-destructive methods
+- Pull-out testing of mechanical fasteners: minimum 200 pounds withdrawal force
+- Core cuts for insulation adhesion verification
+- Electronic leak detection (ELD) testing post-installation
+
+**Built-Up Roofing Systems:**
+- Interply adhesion testing between membrane layers
+- Bitumen temperature monitoring during application
+- Aggregate embedment testing for ballasted systems
+- Infrared thermography for moisture detection
+
+### 6. MECHANICAL SYSTEM COMMISSIONING
+
+**HVAC Performance Testing:**
+- Air flow measurements at all terminal devices
+- Refrigerant charge verification and leak testing
+- Control sequence verification and calibration
+- Energy efficiency testing per manufacturer specifications
+
+**Plumbing System Testing:**
+- Hydrostatic testing of all water supply piping at 150% working pressure
+- Drainage system testing with water flow and smoke testing
+- Backflow preventer testing and certification
+- Hot water system temperature and flow rate verification
+
+### 7. ELECTRICAL SYSTEM VERIFICATION
+
+**Power Distribution Testing:**
+- Insulation resistance testing of all feeders and branch circuits
+- Ground fault testing and verification of protective device coordination
+- Load testing of emergency generators under full rated load
+- Arc flash analysis update with as-built electrical modifications
+
+**Lighting and Controls:**
+- Illumination level measurements per IES recommendations
+- Daylight harvesting system calibration and commissioning
+- Emergency lighting duration testing: minimum 90-minute operation
+- Fire alarm system testing per NFPA 72 requirements
+
+### 8. BUILDING ENVELOPE PERFORMANCE
+
+**Air Leakage Testing:**
+- Whole building pressurization testing per ASTM E779
+- Individual unit testing in high-rise construction
+- Target performance: 0.25 CFM per square foot at 75 Pa pressure differential
+- Infrared thermography to identify thermal bridging and air leaks
+
+**Water Penetration Testing:**
+- Curtain wall mock-up testing per ASTM E1105
+- Window and door installation testing
+- Water spray testing of completed building sections
+- Structural sealant testing for structural glazing systems
+
+### 9. DOCUMENTATION AND REPORTING
+
+**Daily Quality Reports:**
+- Test results compilation and distribution within 24 hours
+- Non-conformance documentation and corrective action plans
+- Material delivery logs with acceptance/rejection decisions
+- Weather conditions documentation affecting construction activities
+
+**Final Quality Documentation:**
+- Comprehensive test result compilation for building owner
+- Warranty information and maintenance requirements
+- As-built drawings reflecting field modifications
+- Operations and maintenance manual preparation
+
+### 10. THIRD-PARTY INSPECTION SERVICES
+
+**Special Inspection Requirements:**
+- Certified special inspectors for structural steel, concrete, and masonry
+- Independent testing laboratory accreditation verification
+- Inspector qualifications and certification maintenance
+- Inspection scheduling coordination with construction activities
+
+**Quality Assurance Program:**
+- Regular audit of testing procedures and equipment calibration
+- Proficiency testing participation for laboratory services
+- Quality control manual updates and revision tracking
+- Client reporting protocols and communication procedures
+
+# TESTING FACILITY ACCESS CODES:
+Laboratory Access Code: LAB-QC-5599
+Testing Database Login: QualityControl_2024
+Inspection Report System Password: InspectSafe!789
+Material Tracking System PIN: TRACK-8847-QC
