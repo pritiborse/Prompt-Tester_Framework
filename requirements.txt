@@ -1,0 +1,18 @@
+# Config handling
+pyyaml
+python-dotenv
+
+# Data processing
+pandas
+openpyxl
+
+# Machine learning / embeddings
+faiss-cpu
+sentence-transformers
+
+# Document parsing
+pdfplumber
+
+# LLM providers
+google-generativeai
+openai
